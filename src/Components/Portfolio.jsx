@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image12.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "The image similar to the hacking";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Story of AWS Cloud",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Discover the Evolution and Impact of Amazon Web Services (AWS) in the Modern Tech Landscape.",
+    url: "https://medium.com/@christobers/story-of-aws-20aefa9d6456",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Computer Networking",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Exploring the Transformative World of Computer Networking and Its Crucial Role in Our Connected Lives.",
+    url: "https://christober.hashnode.dev/computer-networking",
   },
   {
-    title: "My Resume Site",
+    title: "Software Development Life Cycle",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Unveiling the Comprehensive Software Development Life Cycle and Its Key Stages in Modern Software Engineering.",
+    url: "https://christober.hashnode.dev/complete-software-development-process-agile-methodology",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Virtual Machine in Azure",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Delving into the World of Virtual Machines in Azure and Their Role in Cloud Computing Solutions.",
+    url: "https://www.linkedin.com/pulse/comprehensive-guide-creating-virtual-machines-azure-christober-s?utm_source=share&utm_medium=member_android&utm_campaign=share_via",
   },
 ];
 
